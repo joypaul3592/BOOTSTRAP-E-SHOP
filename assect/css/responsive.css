@@ -1,0 +1,176 @@
+@media (max-width:1030px) {
+
+    /* ======= Home CSS ====== */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 60% center;
+        min-height: 550px;
+    }
+
+    .home .home-banner .home-banner-text {
+        transform: translate(-80%, -50%);
+    }
+
+
+
+    /* ====== Special CSS ====== */
+
+    .special .countdown-container {
+        padding-top: 1.075rem;
+    }
+
+    .special .countdown-container .countdown-counter li {
+        padding: 1.5rem 1rem;
+
+    }
+
+
+
+
+
+    /* ======== testimonial CSS =========== */
+    .testimonial .carousel-control-prev {
+        left: -4.75rem;
+    }
+
+    .testimonial .carousel-control-next {
+        right: -4.75rem;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width:991px) {
+
+    /* ======= Home CSS ====== */
+    .home .home-banner .home-banner-text {
+        transform: translate(-66%, -50%);
+    }
+
+
+
+
+
+    /* ====== Special CSS ====== */
+    .special .countdown-container {
+        padding-bottom: 5rem;
+    }
+
+
+    /* ======= testimonial CSS ======= */
+    /* ======== testimonial CSS =========== */
+    .testimonial .carousel-control-prev {
+        left: -1.75rem;
+    }
+
+    .testimonial .carousel-control-next {
+        right: -1.75rem;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:767px) {
+
+    /* ======= Home CSS ====== */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 50% center;
+        min-height: 450px;
+    }
+
+    .home .home-banner .home-banner-text {
+        text-align: center;
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+
+    .home .home-banner .home-banner-text h1 {
+        font-size: 3rem;
+    }
+
+    .home .home-banner .home-banner-text h2 {
+        font-size: 1.2rem;
+    }
+
+    .home .home-banner .home-banner-text .button {
+        padding: 0.5rem 1rem;
+    }
+
+    .home .slider-icon {
+        font-size: 1.5rem;
+    }
+
+    /* ====== Special CSS ====== */
+
+
+
+    /* ====== Product Offer CSS ====== */
+    .products .up_to_content h2 {
+        font-size: 0.75rem;
+    }
+
+
+    /* ====== Special CSS ====== */
+    .special {
+        padding: 4rem 0;
+    }
+
+    .special .countdown-container {
+        padding-bottom: 3rem;
+    }
+
+    .special .countdown-container .countdown-counter li {
+        padding: 1rem;
+        width: 20%;
+        margin: 0 0.213rem;
+    }
+
+
+    /*  ======== testimonial CSS ======= */
+    /* ======== testimonial CSS =========== */
+    .testimonial .testimonial-welpaper {
+        padding: 1rem;
+    }
+
+    .testimonial .carousel-control-prev,
+    .testimonial .carousel-control-next {
+        display: none;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:330px) {
+
+    /* ======= Home CSS ====== */
+    .home .home-banner .home-banner-text h2 {
+        font-size: 1rem;
+    }
+
+    /* ====== Product CSS ====== */
+    .products .up_to_content h2 {
+        font-size: 0.625rem;
+    }
+}
